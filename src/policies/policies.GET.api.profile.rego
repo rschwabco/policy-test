@@ -5,5 +5,5 @@ import input.user
 default allowed = false
 
 allowed {
-	user.attributes.properties.roles[_] == "admin"
+	user.attributes.properties.roles[_] == "adaamin"
 }
